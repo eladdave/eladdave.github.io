@@ -7,6 +7,9 @@ type: landing
 design:
   # Default section spacing
   spacing: '6rem'
+  background:
+    image:
+      filename: Mars-North-Polar-Ice-Cap-From-Hope.png
 
 sections:
   - block: resume-biography-3
