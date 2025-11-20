@@ -34,7 +34,7 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        I'm a PhD candidate at the Department of Earth and Planetary Science at the Weizmann Institute of Science. I'm interested in the evolution and present state of terrestrial planets, and my current focus is the properties and dynamics of ices on Mars.
+        I currently work on CO<sub>2</sub> ice on Mars in the past and present. I worked on climate simulation using a global climate model to explore the effect of ground ice migration on the paleo-CO<sub>2</sub> cycle. My ongoing research is studying the seasonal evolution of CO<sub>2</sub> ice albedo using remote sensing observations.
     design:
       columns: '1'
   # - block: collection

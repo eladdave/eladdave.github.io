@@ -169,4 +169,4 @@ organizations:
 #       Recognized for contributions to scaling laws in deep learning.
 ---
 
-Alex Johnson is a Senior AI Research Scientist at Meta AI, where he leads groundbreaking work on large language models and multimodal systems. His research has been published in top conferences like NeurIPS and ICML, with over 10,000 citations. Alex is passionate about pushing the boundaries of AI while ensuring ethical development. Outside of work, he enjoys hiking in the Rockies, building custom PCs, and mentoring the next generation of AI talent.
+I'm a PhD candidate at the Department of Earth and Planetary Science at the Weizmann Institute of Science. I have a BSc in Chemistry and Biology from the Hebrew University and an MSc in Planetary Science from the Weizmann Institute of Science. I'm interested in the evolution and present state of terrestrial planets, and my current focus is the properties and dynamics of ices on Mars.
