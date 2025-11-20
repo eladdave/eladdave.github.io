@@ -35,7 +35,7 @@ header:
     show_search: true
     show_theme_chooser: true
     logo:
-      text: r'Elad David's Home Page'
+      text: 'Elad David's Home Page'
 
 # Site footer
 footer:
