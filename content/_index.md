@@ -40,8 +40,6 @@ sections:
         I currently work on CO<sub>2</sub> ice on Mars in the past and present. I worked on climate simulation using a global climate model to explore the effect of ground ice migration on the paleo-CO<sub>2</sub> cycle. My ongoing research is studying the seasonal evolution of CO<sub>2</sub> ice albedo using remote sensing observations.
     design:
       columns: '1'
-      # Apply a gradient background
-      css_class: hbx-bg-gradient
   # - block: collection
   #   id: papers
   #   content:
