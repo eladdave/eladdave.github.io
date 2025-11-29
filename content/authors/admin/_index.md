@@ -32,7 +32,7 @@ organizations:
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
-# profiles:
+profiles:
   - icon: at-symbol
     url: 'mailto:elad.david@weizmann.ac.il'
     label: E-mail Me
@@ -40,10 +40,10 @@ organizations:
 #     url: https://twitter.com/AlexAIResearch
 #   - icon: brands/github
 #     url: https://github.com/alexjohnsonai
-#   - icon: brands/linkedin
-#     url: https://www.linkedin.com/in/alexjohnsonai/
-#   - icon: academicons/google-scholar
-#     url: https://scholar.google.com/citations?user=alexjohnson
+  - icon: brands/linkedin
+    url: https://www.linkedin.com/in/elad-david-5105251b5/
+  - icon: academicons/google-scholar
+    url: https://scholar.google.com/citations?user=eladdavid
 #   - icon: academicons/orcid
 #     url: https://orcid.org/0000-0002-1825-0097
 
