@@ -33,9 +33,9 @@ organizations:
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 # profiles:
-#   - icon: at-symbol
-#     url: 'mailto:alex.johnson@meta.com'
-#     label: E-mail Me
+  - icon: at-symbol
+    url: 'mailto:elad.david@weizmann.ac.il'
+    label: E-mail Me
 #   - icon: brands/x
 #     url: https://twitter.com/AlexAIResearch
 #   - icon: brands/github
@@ -169,4 +169,4 @@ organizations:
 #       Recognized for contributions to scaling laws in deep learning.
 ---
 
-I'm a PhD candidate at the Department of Earth and Planetary Science at the Weizmann Institute of Science. I have a BSc in Chemistry and Biology from the Hebrew University and an MSc in Planetary Science from the Weizmann Institute of Science. I'm interested in the evolution and present state of terrestrial planets, and my current focus is the properties and dynamics of ices on Mars.
+I'm a PhD candidate at the Department of Earth and Planetary Science at the Weizmann Institute of Science, affiliated with the Laboratory for Atmospheric and Space Physics at the University of Colorado, Boulder. I have a BSc in Chemistry and Biology from the Hebrew University and an MSc in Planetary Science from the Weizmann Institute of Science. I'm interested in the evolution and present state of terrestrial planets, and my current focus is the properties and dynamics of ices on Mars.
