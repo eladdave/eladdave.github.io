@@ -20,7 +20,7 @@ sections:
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Download CV
-        url: uploads/Elad_CV_December_2024.pdf
+        url: uploads/Elad_CV_December_2025___general_academic.pdf
       headings:
         about: ''
         education: ''
@@ -38,6 +38,14 @@ sections:
       subtitle: ''
       text: |-
         I currently work on CO<sub>2</sub> ice on Mars in the past and present. I worked on climate simulation using a global climate model to explore the effect of ground ice migration on the paleo-CO<sub>2</sub> cycle. My ongoing research is studying the seasonal evolution of CO<sub>2</sub> ice albedo using remote sensing observations.
+    design:
+      columns: '1'
+  - block: markdown
+    content:
+      title: '📚 Other Activities'
+      subtitle: ''
+      text: |-
+        I also participate in scientific outreach activities through the Davidson Institute of Science Education. I lead guided telescope observation sessions for students and the general public, and I have developed space-focused educational workshops.
     design:
       columns: '1'
   # - block: collection
